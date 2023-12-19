@@ -1,0 +1,40 @@
+{
+  "specVersion": "1.0",
+  "name": "Factory",
+  "subName": "ultrabest",
+  "description": "3rd party factory requires a description, but this sample is made just for fun",
+  "author": "dmardari",
+  "defaultLocale": "en-US",
+  "media": {
+    "product": {
+      "contentType": "image/jpeg",
+      "integrity": {
+        "type": "SHA256",
+        "hash": "b91a2adf54ccc3e4369f141fb1c609bd95780e6f534d47cd50c0f08bb3d6e1bc"
+      },
+      "uris": [
+        "https://static.staging.ultra.io/uniq/original/Factory/b91a2adf54ccc3e4369f141fb1c609bd95780e6f534d47cd50c0f08bb3d6e1bc.jpg"
+      ]
+    },
+    "square": {
+      "contentType": "image/jpeg",
+      "integrity": {
+        "type": "SHA256",
+        "hash": "7d9d361b1ea7d493e1f56c374658555419ab7f994c8933010d0c16b6a5b4d9bd"
+      },
+      "uris": [
+        "https://static.staging.ultra.io/uniq/original/Factory/7d9d361b1ea7d493e1f56c374658555419ab7f994c8933010d0c16b6a5b4d9bd.jpg"
+      ]
+    },
+    "hero": {
+      "contentType": "image/jpeg",
+      "integrity": {
+        "type": "SHA256",
+        "hash": "b91a2adf54ccc3e4369f141fb1c609bd95780e6f534d47cd50c0f08bb3d6e1bc"
+      },
+      "uris": [
+        "https://static.staging.ultra.io/uniq/original/Factory/b91a2adf54ccc3e4369f141fb1c609bd95780e6f534d47cd50c0f08bb3d6e1bc.jpg"
+      ]
+    }
+  }
+}
