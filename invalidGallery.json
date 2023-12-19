@@ -1,0 +1,72 @@
+{
+  "specVersion": "1.0",
+  "name": "Factory",
+  "subName": "ultrabest",
+  "description": "3rd party factory requires a description, but this sample is made just for fun",
+  "author": "dbarrera",
+  "defaultLocale": "en-US",
+  "media": {
+    "product": {
+      "contentType": "image/jpeg",
+      "integrity": {
+        "type": "SHA256",
+        "hash": "b91a2adf54ccc3e4369f141fb1c609bd95780e6f534d47cd50c0f08bb3d6e1bc"
+      },
+      "uris": [
+        "https://static.staging.ultra.io/uniq/original/Factory/b91a2adf54ccc3e4369f141fb1c609bd95780e6f534d47cd50c0f08bb3d6e1bc.jpg"
+      ]
+    },
+    "square": {
+      "contentType": "image/jpeg",
+      "integrity": {
+        "type": "SHA256",
+        "hash": "7d9d361b1ea7d493e1f56c374658555419ab7f994c8933010d0c16b6a5b4d9bd"
+      },
+      "uris": [
+        "https://static.staging.ultra.io/uniq/original/Factory/7d9d361b1ea7d493e1f56c374658555419ab7f994c8933010d0c16b6a5b4d9bd.jpg"
+      ]
+    },
+    "hero": {
+      "contentType": "image/jpeg",
+      "integrity": {
+        "type": "SHA256",
+        "hash": "b91a2adf54ccc3e4369f141fb1c609bd95780e6f534d47cd50c0f08bb3d6e1bc"
+      },
+      "uris": [
+        "https://static.staging.ultra.io/uniq/original/Factory/b91a2adf54ccc3e4369f141fb1c609bd95780e6f534d47cd50c0f08bb3d6e1bc.jpg"
+      ]
+    },
+    "gallery": [
+      {
+        "contentType": "image/jpeg",
+        "integrity": {
+          "type": "SHA256",
+          "hash": "850e859414ae88a16ba86a018d9b27ba5d514207cd426c564fb503468e90a622"
+        },
+        "uris": [
+          "https://static.staging.ultra.io/uniq/original/Factory/850e859414ae88a16ba86a018d9b27ba5d514207cd426c564fb503468e90a606.jpg"
+        ]
+      },
+      {
+        "contentType": "image/jpeg",
+        "integrity": {
+          "type": "SHA256",
+          "hash": "850e859414ae88a16ba86a018d9b27ba5d514207cd426c564fb503468e90a621"
+        },
+        "uris": [
+          "https://static.staging.ultra.io/uniq/original/Factory/850e859414ae88a16ba86a018d9b27ba5d514207cd426c564fb503468e90a606.jpg"
+        ]
+      },
+      {
+        "contentType": "image/jpeg",
+        "integrity": {
+          "type": "SHA256",
+          "hash": "850e859414ae88a16ba86a018d9b27ba5d514207cd426c564fb503468e90a12"
+        },
+        "uris": [
+          "https://static.staging.ultra.io/uniq/original/Factory/850e859414ae88a16ba86a018d9b27ba5d514207cd426c564fb503468e90a606.jpg"
+        ]
+      }
+    ]
+  }
+}
